@@ -40,3 +40,11 @@ A web-based dashboard showcasing insights and statistics on renewable energy usa
    ```bash
    git clone https://github.com/your-username/renewable-energy-dashboard.git
    cd renewable-energy-dashboard
+
+# Verify 🌐
+
+You can verify the deployed version of the Renewable Energy Dashboard by visiting the following URL:
+
+👉 https://lambent-gecko-3a1629.netlify.app/
+
+
